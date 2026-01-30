@@ -1,4 +1,6 @@
 ###### README
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/fed27b46-ec31-4616-82a0-c54a9c396824" />
+
 ---
 
 # Inspiration, How we built it, Challenges, and Accomplishments
@@ -12,9 +14,6 @@ In our game, we accomplished many of our goals through our implementations. One 
 ###### Getting Started
 
 # How to run the game
-
-<img width="712" alt="image" src="https://github.com/user-attachments/assets/fed27b46-ec31-4616-82a0-c54a9c396824" />
-
 1. Please download Visual Studio Code. 
 2. Then open this folder in Visual Studio Code. 
 3. On lefthand side bar, click on EXTENSIONS, and install Live Server. 
