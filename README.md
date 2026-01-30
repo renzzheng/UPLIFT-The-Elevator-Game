@@ -4,7 +4,7 @@ Authors: Timothy Jeon, Ren-Zhi Zheng, and Dante Ottaviani.
 
 ---
 
-## Inspiration, How we built it, Challenges, and Accomplishments
+# Inspiration, How we built it, Challenges, and Accomplishments
 
 Our project evolved significantly throughout the course of this semester. Originally, we went through different iterations on how we wanted our game to look visually and how the players would interact with the game. An example would be how we initally tried to make our game in 3D using ggslac but then pivoted to 2D using Javascript, CSS, and HTML as it was a better direction to take our game. Another example would be our elevator building initially being designed to be viewed on the side but then changed it to a top-down view to implement rotations and better readability on passenger location. In the end, we implemented a design we think best suits the needs for both Computer Graphics and Intro to Game Studies as well as our personal goal to create a simple, yet complex game based on the concept of elevators. 
 
@@ -14,7 +14,7 @@ In our game, we accomplished many of our goals through our implementations. One 
 
 ###### Getting Started
 
-## How to run the game
+# How to run the game
 
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/fed27b46-ec31-4616-82a0-c54a9c396824" />
 
